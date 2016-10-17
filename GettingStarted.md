@@ -23,16 +23,16 @@ Windows users, if you are copying the file path from Windows Explorer, you will 
 The file ps4a.py has a number of already implemented functions you can use while writing up your solution. You can ignore the code
 between the following comments, though you should read and understand how to use each helper function by reading the docstrings:
 
-# -----------------------------------
-# Helper code
-# You don't need to understand this helper code,
-# but you will have to know how to use the functions
-# (so be sure to read the docstrings!)
+ -----------------------------------
+ Helper code
+ You don't need to understand this helper code,
+ but you will have to know how to use the functions
+ (so be sure to read the docstrings!)
     .
     .
     .
-# (end of helper code)
-# -----------------------------------   
+ (end of helper code)
+ -----------------------------------   
 
 This problem set is structured so that you will write a number of modular functions and then glue them together to form the
 complete word playing game. Instead of waiting until the entire game is ready, you should test each function you write, individually,
